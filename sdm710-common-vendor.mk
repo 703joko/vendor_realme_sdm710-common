@@ -1167,6 +1167,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     WfdService \
     dpmserviceapp \
+    workloadclassifier \
     QPerformance \
     UxPerformance \
     WfdCommon \
